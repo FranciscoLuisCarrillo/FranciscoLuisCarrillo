@@ -57,7 +57,7 @@ Decidí dar un giro a mi carrera adentrándome en la programación y los datos. 
     <td>
       <strong><a href="https://www.unlu.edu.ar/carg-contador-pre.html">Contador Público</a></strong><br>
       <em>Universidad Nacional de Luján</em><br>
-      <font size="2">Título de Grado (Finalizado)</font>
+      <font size="2">Título de Grado (Suspendido)</font>
     </td>
   </tr>
 </table>
