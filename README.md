@@ -22,26 +22,14 @@ Decidí dar un giro a mi carrera adentrándome en la programación y los datos. 
 
 ### 🛠️ Tech Stack & Herramientas
 
-**💻 Lenguajes & Scripting**
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-**⚙️ Data Engineering & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
-
-**🐳 Contenedores & Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -73,19 +61,6 @@ Decidí dar un giro a mi carrera adentrándome en la programación y los datos. 
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscoLuisCarrillo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Francisco" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLuisCarrillo&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180" />
-  </a>
-</div>
 
 ---
 
