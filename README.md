@@ -18,28 +18,61 @@ Soy un profesional con un sólido background en **Mercado de Capitales, Finanzas
 
 Decidí dar un giro a mi carrera adentrándome en la programación y los datos. Hoy, mi objetivo es **combinar mi conocimiento de negocio** con mis nuevas habilidades técnicas para agregar valor como **Data Engineer**, diseñando flujos de datos que no solo funcionen técnicamente, sino que resuelvan problemas reales de negocio.
 
-- 🔭 Actualmente trabajando en: **Proyectos de ETL y Automatización.**
-- 🌱 Aprendiendo: **Arquitecturas de Big Data y Cloud Computing.**
-- 🎯 Objetivo: **Construir pipelines de datos robustos y escalables.**
-
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Herramientas
 
-**Lenguajes & Core:**
+**💻 Lenguajes & Scripting**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-**Data Engineering:**
+**⚙️ Data Engineering & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+**🐳 Contenedores & Herramientas**
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+### 🎓 Educación
+
+<table width="100%">
+  <tr>
+    <td width="120" align="center">
+      <a href="https://www.frgp.utn.edu.ar/carreras/tup_tuss">
+        <img src="https://www.frgp.utn.edu.ar/public/frontend/assets/img/logo-footer.png" width="100px" alt="UTN FRGP Logo">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.frgp.utn.edu.ar/carreras/tup_tuss">Tecnicatura Universitaria en Programación</a></strong><br>
+      <em>UTN General Pacheco</em><br>
+      <font size="2">En curso | Buenos Aires, Argentina</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://www.unlu.edu.ar/">
+        <img src="https://www.unlu.edu.ar/imagenes/logo.png" width="80px" alt="UNLu Logo">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.unlu.edu.ar/carg-contador-pre.html">Contador Público</a></strong><br>
+      <em>Universidad Nacional de Luján</em><br>
+      <font size="2">Título de Grado (Finalizado)</font>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,8 +90,6 @@ Decidí dar un giro a mi carrera adentrándome en la programación y los datos. 
 ---
 
 ### 🏗️ Arquitectura de Datos (Enfoque)
-
-Diseño pipelines siguiendo la arquitectura Medallón para garantizar calidad y trazabilidad.
 
 ```mermaid
 graph LR
