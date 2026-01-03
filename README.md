@@ -2,7 +2,7 @@
   
   # Hola, soy Francisco Luis Carrillo 👋
   
-  ### Data Engineer | Ex-Finance Specialist
+  ### Data Engineer in training
   
   *Uniendo la lógica de negocios del Mercado de Capitales con la potencia de la Ingeniería de Datos.*
 
