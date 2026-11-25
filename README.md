@@ -1,6 +1,6 @@
-<!-- Banner superior estilo Obsidian + Azul Fintech -->
+<!-- Banner superior alojado en tu propio repositorio -->
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Francisco Luis Carrillo Banner" />
+  <img src="https://raw.githubusercontent.com/FranciscoLuisCarrillo/FranciscoLuisCarrillo/main/banner.jpeg" width="100%" alt="Francisco Luis Carrillo Banner" />
 </div>
 
 <p align="center">
