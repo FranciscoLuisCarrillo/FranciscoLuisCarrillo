@@ -1,6 +1,6 @@
 <!-- Banner superior estilo Obsidian + Azul Fintech -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:0f172a,100:0c4a6e&height=170§ion=header&text=Francisco%20Luis%20Carrillo&fontSize=38&fontColor=f8fafc&fontAlignY=42&desc=TECHNICAL%20PRODUCT%20OWNER%20%26%20SCRUM%20MASTER&descSize=15&descColor=38bdf8&descAlignY=68" width="100%" alt="Francisco Luis Carrillo Banner" />
+  <img src="./banner.png" width="100%" alt="Francisco Luis Carrillo Banner" />
 </div>
 
 <p align="center">
@@ -145,6 +145,4 @@ Especializado en liderar **células cross-product**, gestión del ciclo de vida 
 | **Asesor Financiero Certificado & Idóneo Mercado de Capitales** | IAEF & CNV | `2020` |
 | **Diplomatura en Business Intelligence** | UTN | `2019` |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:0f172a&height=40§ion=footer" width="100%" />
-</div>
+---
