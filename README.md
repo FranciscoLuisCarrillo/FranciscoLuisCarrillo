@@ -1,7 +1,4 @@
 <!-- Banner superior alojado en tu propio repositorio -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoLuisCarrillo/FranciscoLuisCarrillo/main/banner.jpeg" width="100%" alt="Francisco Luis Carrillo Banner" />
-</div>
 
 <p align="center">
   <a href="https://franciscocarrillo.vercel.app/">
